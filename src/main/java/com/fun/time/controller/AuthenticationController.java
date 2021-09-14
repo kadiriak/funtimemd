@@ -12,6 +12,10 @@ import com.fun.time.model.User;
 import com.fun.time.service.IAuthenticationService;
 import com.fun.time.service.IUserService;
 
+/**
+ * @author AnilKumar
+ *
+ */
 @RestController
 @RequestMapping("api/authentication")//pre-path
 public class AuthenticationController
